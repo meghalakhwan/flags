@@ -59,7 +59,8 @@ function franceFunc()
     document.getElementById("france").innerHTML = c;
 }
 
-function outFrance() {
+function outFrance() 
+{
     var c = ""
     document.getElementById("france").innerHTML = c;
 }
@@ -70,7 +71,8 @@ function greeceFunc()
     document.getElementById("greece").innerHTML = c;
 }
 
-function outGreece() {
+function outGreece() 
+{
     var c = ""
     document.getElementById("greece").innerHTML = c;
 }
@@ -81,7 +83,8 @@ function japanFunc()
     document.getElementById("japan").innerHTML = c;
 }
 
-function outJapan() {
+function outJapan() 
+{
     var c = ""
     document.getElementById("japan").innerHTML = c;
 }
@@ -92,7 +95,8 @@ function russiaFunc()
     document.getElementById("russia").innerHTML = c;
 }
 
-function outRussia() {
+function outRussia() 
+{
     var c = ""
     document.getElementById("russia").innerHTML = c;
 }
