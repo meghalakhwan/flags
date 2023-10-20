@@ -1,5 +1,4 @@
-function brazilFunc() 
-{
+function brazilFunc() {
     var c = "This is the flag of Brazil";
     document.getElementById("brazil").innerHTML = c;
 }
@@ -9,8 +8,7 @@ function outBrazil() {
     document.getElementById("brazil").innerHTML = c;
 }
 
-function indiaFunc() 
-{
+function indiaFunc() {
     var c = "This is the flag of India";
     document.getElementById("india").innerHTML = c;
 }
@@ -20,8 +18,7 @@ function outIndia() {
     document.getElementById("india").innerHTML = c;
 }
 
-function argFunc() 
-{
+function argFunc() {
     var c = "This is the flag of Argentina";
     document.getElementById("arg").innerHTML = c;
 }
@@ -31,8 +28,7 @@ function outArg() {
     document.getElementById("arg").innerHTML = c;
 }
 
-function ausFunc() 
-{
+function ausFunc() {
     var c = "This is the flag of Australia";
     document.getElementById("aus").innerHTML = c;
 }
@@ -42,8 +38,7 @@ function outAus() {
     document.getElementById("aus").innerHTML = c;
 }
 
-function canadaFunc() 
-{
+function canadaFunc() {
     var c = "This is the flag of Canada";
     document.getElementById("canada").innerHTML = c;
 }
@@ -53,50 +48,42 @@ function outCanada() {
     document.getElementById("canada").innerHTML = c;
 }
 
-function franceFunc() 
-{
+function franceFunc() {
     var c = "This is the flag of France";
     document.getElementById("france").innerHTML = c;
 }
 
-function outFrance() 
-{
+function outFrance() {
     var c = ""
     document.getElementById("france").innerHTML = c;
 }
 
-function greeceFunc() 
-{
+function greeceFunc() {
     var c = "This is the flag of Greece";
     document.getElementById("greece").innerHTML = c;
 }
 
-function outGreece() 
-{
+function outGreece() {
     var c = ""
     document.getElementById("greece").innerHTML = c;
 }
 
-function japanFunc() 
-{
+function japanFunc() {
     var c = "This is the flag of Japan";
     document.getElementById("japan").innerHTML = c;
 }
 
-function outJapan() 
-{
+function outJapan() {
     var c = ""
     document.getElementById("japan").innerHTML = c;
 }
 
-function russiaFunc() 
-{
+function russiaFunc() {
     var c = "This is the flag of Russia";
     document.getElementById("russia").innerHTML = c;
 }
 
-function outRussia() 
-{
+function outRussia() {
     var c = ""
     document.getElementById("russia").innerHTML = c;
 }
