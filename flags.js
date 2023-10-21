@@ -63,6 +63,7 @@ function greeceFunc() {
     document.getElementById("greece").innerHTML = c;
 }
 
+
 function outGreece() {
     var c = ""
     document.getElementById("greece").innerHTML = c;
