@@ -33,6 +33,7 @@ function ausFunc() {
   document.getElementById("aus").innerHTML = c;
 }
 
+
 function outAus() {
   var c = "";
   document.getElementById("aus").innerHTML = c;
